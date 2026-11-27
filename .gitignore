@@ -1,0 +1,23 @@
+# 体积大、可再生的数据（tif 几十 MB，重跑脚本即可生成）
+data/*.tif
+data/tmp/
+data/ndvi_T2_disp.tif
+
+# 出图中间件
+*.svg.bak
+__pycache__/
+*.pyc
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 入库内容（体积可控）：代码、README、docs/、data/*.csv、data/*.json、成果图 png/pdf/svg
+
+# W8 商业弹药（含报价与需求池，不进公开仓库）
+docs/proposal-模板×3.md
+docs/候选需求池-10条.md
+data/tmp/
+data/_dl_*.tif

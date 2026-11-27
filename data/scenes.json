@@ -1,0 +1,1237 @@
+{
+  "bbox": [
+    104.0,
+    30.55,
+    104.16,
+    30.76
+  ],
+  "collection": "sentinel-2-l2a",
+  "periods": {
+    "冬2025": {
+      "window": [
+        "2025-01-01",
+        "2025-02-28"
+      ],
+      "count": 88,
+      "scenes": [
+        {
+          "id": "S2B_48RUU_20250103_0_L2A",
+          "cloud": 0.0,
+          "datetime": "2025-01-03T03:59:49.662000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/1/S2B_48RUU_20250103_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/1/S2B_48RUU_20250103_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/1/S2B_48RUU_20250103_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "bits_per_sample": 15,
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "bits_per_sample": 15,
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RVU_20250103_0_L2A",
+          "cloud": 0.01,
+          "datetime": "2025-01-03T03:59:44.157000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/1/S2B_48RVU_20250103_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/1/S2B_48RVU_20250103_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/1/S2B_48RVU_20250103_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "bits_per_sample": 15,
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "bits_per_sample": 15,
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RVV_20250103_0_L2A",
+          "cloud": 0.01,
+          "datetime": "2025-01-03T03:59:31.522000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2025/1/S2B_48RVV_20250103_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2025/1/S2B_48RVV_20250103_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2025/1/S2B_48RVV_20250103_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "bits_per_sample": 15,
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "bits_per_sample": 15,
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2A_48RUV_20250105_0_L2A",
+          "cloud": 0.05,
+          "datetime": "2025-01-05T03:49:37.800000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2025/1/S2A_48RUV_20250105_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2025/1/S2A_48RUV_20250105_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2025/1/S2A_48RUV_20250105_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "bits_per_sample": 15,
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "bits_per_sample": 15,
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RUU_20250120_0_L2A",
+          "cloud": 0.13,
+          "datetime": "2025-01-20T03:49:53.720000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/1/S2B_48RUU_20250120_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/1/S2B_48RUU_20250120_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/1/S2B_48RUU_20250120_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "bits_per_sample": 15,
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "bits_per_sample": 15,
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        }
+      ]
+    },
+    "冬2026": {
+      "window": [
+        "2026-01-01",
+        "2026-02-28"
+      ],
+      "count": 92,
+      "scenes": [
+        {
+          "id": "S2A_48RVU_20260112_0_L2A",
+          "cloud": 0.0,
+          "datetime": "2026-01-12T03:50:11.919000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/1/S2A_48RVU_20260112_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/1/S2A_48RVU_20260112_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/1/S2A_48RVU_20260112_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2A_48RUV_20260112_0_L2A",
+          "cloud": 0.01,
+          "datetime": "2026-01-12T03:50:01.008000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/1/S2A_48RUV_20260112_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/1/S2A_48RUV_20260112_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/1/S2A_48RUV_20260112_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2A_48RVV_20260112_0_L2A",
+          "cloud": 0.02,
+          "datetime": "2026-01-12T03:49:57.343000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/1/S2A_48RVV_20260112_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/1/S2A_48RVV_20260112_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/1/S2A_48RVV_20260112_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2C_48RVV_20260212_0_L2A",
+          "cloud": 0.03,
+          "datetime": "2026-02-12T03:59:33.059000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/2/S2C_48RVV_20260212_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/2/S2C_48RVV_20260212_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/2/S2C_48RVV_20260212_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2A_48RUU_20260112_0_L2A",
+          "cloud": 0.04,
+          "datetime": "2026-01-12T03:50:14.918000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/1/S2A_48RUU_20260112_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/1/S2A_48RUU_20260112_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/1/S2A_48RUU_20260112_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        }
+      ]
+    },
+    "春2025": {
+      "window": [
+        "2025-03-01",
+        "2025-04-30"
+      ],
+      "count": 100,
+      "scenes": [
+        {
+          "id": "S2C_48RVU_20250326_0_L2A",
+          "cloud": 0.0,
+          "datetime": "2025-03-26T03:50:11.732000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/3/S2C_48RVU_20250326_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/3/S2C_48RVU_20250326_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/3/S2C_48RVU_20250326_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2C_48RVV_20250326_0_L2A",
+          "cloud": 0.0,
+          "datetime": "2025-03-26T03:49:57.157000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2025/3/S2C_48RVV_20250326_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2025/3/S2C_48RVV_20250326_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2025/3/S2C_48RVV_20250326_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RUU_20250324_0_L2A",
+          "cloud": 0.0,
+          "datetime": "2025-03-24T03:59:52.652000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/3/S2B_48RUU_20250324_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/3/S2B_48RUU_20250324_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/3/S2B_48RUU_20250324_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RVU_20250324_0_L2A",
+          "cloud": 0.0,
+          "datetime": "2025-03-24T03:59:47.003000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/3/S2B_48RVU_20250324_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/3/S2B_48RVU_20250324_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/3/S2B_48RVU_20250324_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2C_48RVU_20250418_0_L2A",
+          "cloud": 0.01,
+          "datetime": "2025-04-18T04:00:04.679000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/4/S2C_48RVU_20250418_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/4/S2C_48RVU_20250418_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/4/S2C_48RVU_20250418_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        }
+      ]
+    },
+    "春2026": {
+      "window": [
+        "2026-03-01",
+        "2026-04-30"
+      ],
+      "count": 100,
+      "scenes": [
+        {
+          "id": "S2B_48RVU_20260425_0_L2A",
+          "cloud": 0.08,
+          "datetime": "2026-04-25T03:49:46.215000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/4/S2B_48RVU_20260425_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/4/S2B_48RVU_20260425_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/4/S2B_48RVU_20260425_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2C_48RUV_20260311_0_L2A",
+          "cloud": 0.12,
+          "datetime": "2026-03-11T03:49:41.267000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/3/S2C_48RUV_20260311_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/3/S2C_48RUV_20260311_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/3/S2C_48RUV_20260311_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RUU_20260425_0_L2A",
+          "cloud": 0.21,
+          "datetime": "2026-04-25T03:49:49.209000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/4/S2B_48RUU_20260425_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/4/S2B_48RUU_20260425_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/4/S2B_48RUU_20260425_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RVU_20260418_0_L2A",
+          "cloud": 1.12,
+          "datetime": "2026-04-18T03:59:40.999000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/4/S2B_48RVU_20260418_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/4/S2B_48RVU_20260418_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/4/S2B_48RVU_20260418_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RVV_20260425_0_L2A",
+          "cloud": 1.95,
+          "datetime": "2026-04-25T03:49:31.645000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/4/S2B_48RVV_20260425_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/4/S2B_48RVV_20260425_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/4/S2B_48RVV_20260425_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        }
+      ]
+    },
+    "夏前2026": {
+      "window": [
+        "2026-05-01",
+        "2026-06-30"
+      ],
+      "count": 100,
+      "scenes": [
+        {
+          "id": "S2C_48RUU_20260520_0_L2A",
+          "cloud": 13.52,
+          "datetime": "2026-05-20T03:49:52.407000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/5/S2C_48RUU_20260520_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/5/S2C_48RUU_20260520_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/5/S2C_48RUU_20260520_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2C_48RVV_20260520_0_L2A",
+          "cloud": 19.23,
+          "datetime": "2026-05-20T03:49:34.827000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/5/S2C_48RVV_20260520_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/5/S2C_48RVV_20260520_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/5/S2C_48RVV_20260520_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2C_48RVU_20260520_0_L2A",
+          "cloud": 24.5,
+          "datetime": "2026-05-20T03:49:49.404000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/5/S2C_48RVU_20260520_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/5/S2C_48RVU_20260520_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/5/S2C_48RVU_20260520_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2C_48RUV_20260513_0_L2A",
+          "cloud": 25.46,
+          "datetime": "2026-05-13T03:59:35.497000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/5/S2C_48RUV_20260513_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/5/S2C_48RUV_20260513_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/5/S2C_48RUV_20260513_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2C_48RUV_20260520_0_L2A",
+          "cloud": 30.07,
+          "datetime": "2026-05-20T03:49:38.473000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/5/S2C_48RUV_20260520_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/5/S2C_48RUV_20260520_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/5/S2C_48RUV_20260520_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        }
+      ]
+    },
+    "秋2025": {
+      "window": [
+        "2025-10-01",
+        "2025-11-30"
+      ],
+      "count": 100,
+      "scenes": [
+        {
+          "id": "S2B_48RUV_20251129_0_L2A",
+          "cloud": 3.66,
+          "datetime": "2025-11-29T03:59:28.576000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2025/11/S2B_48RUV_20251129_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2025/11/S2B_48RUV_20251129_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2025/11/S2B_48RUV_20251129_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2C_48RVU_20251015_0_L2A",
+          "cloud": 12.55,
+          "datetime": "2025-10-15T03:59:55.323000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/10/S2C_48RVU_20251015_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/10/S2C_48RVU_20251015_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/10/S2C_48RVU_20251015_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RVV_20251129_0_L2A",
+          "cloud": 15.87,
+          "datetime": "2025-11-29T03:59:24.612000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2025/11/S2B_48RVV_20251129_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2025/11/S2B_48RVV_20251129_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2025/11/S2B_48RVV_20251129_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RUU_20251027_1_L2A",
+          "cloud": 19.89,
+          "datetime": "2025-10-27T03:49:52.807000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/10/S2B_48RUU_20251027_1_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/10/S2B_48RUU_20251027_1_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/10/S2B_48RUU_20251027_1_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2A_48RVU_20251027_0_L2A",
+          "cloud": 24.02,
+          "datetime": "2025-10-27T04:00:00.431000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/10/S2A_48RVU_20251027_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/10/S2A_48RVU_20251027_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2025/10/S2A_48RVU_20251027_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        }
+      ]
+    },
+    "秋2026": {
+      "window": [
+        "2026-10-01",
+        "2026-11-30"
+      ],
+      "count": 100,
+      "scenes": [
+        {
+          "id": "S2A_48RUU_20261121_1_L2A",
+          "cloud": 0.06,
+          "datetime": "2026-11-21T03:59:55.031000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/11/S2A_48RUU_20261121_1_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/11/S2A_48RUU_20261121_1_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/11/S2A_48RUU_20261121_1_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RUU_20261121_0_L2A",
+          "cloud": 0.14,
+          "datetime": "2026-11-21T03:49:55.342000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/11/S2B_48RUU_20261121_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/11/S2B_48RUU_20261121_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2026/11/S2B_48RUU_20261121_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2A_48RVU_20261121_1_L2A",
+          "cloud": 0.34,
+          "datetime": "2026-11-21T03:59:49.425000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/11/S2A_48RVU_20261121_1_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/11/S2A_48RVU_20261121_1_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/11/S2A_48RVU_20261121_1_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2A_48RUV_20261121_1_L2A",
+          "cloud": 0.82,
+          "datetime": "2026-11-21T03:59:40.894000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/11/S2A_48RUV_20261121_1_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/11/S2A_48RUV_20261121_1_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UV/2026/11/S2A_48RUV_20261121_1_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        },
+        {
+          "id": "S2B_48RVV_20261121_0_L2A",
+          "cloud": 1.02,
+          "datetime": "2026-11-21T03:49:37.786000Z",
+          "assets": {
+            "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/11/S2B_48RVV_20261121_0_L2A/B04.tif",
+            "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/11/S2B_48RVV_20261121_0_L2A/B08.tif",
+            "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VV/2026/11/S2B_48RVV_20261121_0_L2A/SCL.tif"
+          },
+          "raster_bands": {
+            "red": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "nir": {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            },
+            "scl": {
+              "nodata": 0,
+              "data_type": "uint8",
+              "spatial_resolution": 20
+            }
+          }
+        }
+      ]
+    }
+  },
+  "selected": {
+    "period": "冬",
+    "T1": {
+      "id": "S2B_48RUU_20250103_0_L2A",
+      "cloud": 0.0,
+      "datetime": "2025-01-03T03:59:49.662000Z",
+      "assets": {
+        "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/1/S2B_48RUU_20250103_0_L2A/B04.tif",
+        "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/1/S2B_48RUU_20250103_0_L2A/B08.tif",
+        "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/UU/2025/1/S2B_48RUU_20250103_0_L2A/SCL.tif"
+      },
+      "raster_bands": {
+        "red": {
+          "nodata": 0,
+          "data_type": "uint16",
+          "bits_per_sample": 15,
+          "spatial_resolution": 10,
+          "scale": 0.0001,
+          "offset": -0.1
+        },
+        "nir": {
+          "nodata": 0,
+          "data_type": "uint16",
+          "bits_per_sample": 15,
+          "spatial_resolution": 10,
+          "scale": 0.0001,
+          "offset": -0.1
+        },
+        "scl": {
+          "nodata": 0,
+          "data_type": "uint8",
+          "spatial_resolution": 20
+        }
+      }
+    },
+    "T2": {
+      "id": "S2A_48RVU_20260112_0_L2A",
+      "cloud": 0.0,
+      "datetime": "2026-01-12T03:50:11.919000Z",
+      "assets": {
+        "red": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/1/S2A_48RVU_20260112_0_L2A/B04.tif",
+        "nir": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/1/S2A_48RVU_20260112_0_L2A/B08.tif",
+        "scl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/48/R/VU/2026/1/S2A_48RVU_20260112_0_L2A/SCL.tif"
+      },
+      "raster_bands": {
+        "red": {
+          "nodata": 0,
+          "data_type": "uint16",
+          "spatial_resolution": 10,
+          "scale": 0.0001,
+          "offset": -0.1
+        },
+        "nir": {
+          "nodata": 0,
+          "data_type": "uint16",
+          "spatial_resolution": 10,
+          "scale": 0.0001,
+          "offset": -0.1
+        },
+        "scl": {
+          "nodata": 0,
+          "data_type": "uint8",
+          "spatial_resolution": 20
+        }
+      }
+    },
+    "worst_cloud": 0.0
+  }
+}

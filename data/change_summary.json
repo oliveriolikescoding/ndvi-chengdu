@@ -1,0 +1,21 @@
+{
+  "offset_removed": 0.1246,
+  "rationale": "两期影像反射率整体水平不同（红光 0.032 vs 0.023），判为大气/观测条件差异；以全区中位差作条件性偏移校正，中位归零。",
+  "raw": {
+    "median": 0.1246,
+    "mean": 0.1345,
+    "improved_frac": 0.7061,
+    "degraded_frac": 0.1091
+  },
+  "normalized": {
+    "median": 0.0,
+    "mean": 0.0099,
+    "improved_frac": 0.3699,
+    "degraded_frac": 0.3603,
+    "stable_frac": 0.2698,
+    "p5_p95": [
+      -0.276,
+      0.319
+    ]
+  }
+}
